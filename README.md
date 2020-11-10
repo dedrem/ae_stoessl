@@ -2,6 +2,7 @@ maintainer: Maximilian Goldbrunner
 
 Woche 2: Variablen
 --------------------
+Weiterführender Einstieg, Verwenden von Variablen
 
 Aufgabe 0:
 ---------------------
