@@ -2,6 +2,7 @@ maintainer: Maximilian Goldbrunner
 
 Woche 1: Konsolenausgabe
 ---------------------------------------------------------
+Einstieg in Java mit verschiedenen Aufgaben zur Konsolenausgabe
 
 Aufgabe 0:
 ----------
