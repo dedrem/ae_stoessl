@@ -1,8 +1,6 @@
 maintainer: Maximilian Goldbrunner
 
-Anwendungsentwicklung Praxisunterricht
+Woche 2: Variablen
 
-In diesem Repository finden sich Lösungen zu den 
-bearbeiteten Aufgaben.
-
-Übung 1 - 14.10.2020
+Aufgabe 0:
+Berechne den Umfang und die Fläche eines Rechtecks
