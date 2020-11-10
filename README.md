@@ -1,8 +1,7 @@
 maintainer: Maximilian Goldbrunner
 
-Anwendungsentwicklung Praxisunterricht
+Übung 1: Konsolenausgabe
 
-In diesem Repository finden sich Lösungen zu den 
-bearbeiteten Aufgaben.
+Aufgabe 0:
 
-Übung 1 - 14.10.2020
+
