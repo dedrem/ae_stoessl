@@ -4,8 +4,8 @@ Anwendungsentwicklung Praxisunterricht
 
 In diesem Repository finden sich Lösungen zu den 
 bearbeiteten Aufgaben.
-Einfach den entsprechenden Branch für die jeweilige Übungswoche öffnen.
-Im Ordner /src finden sich in der Main.java die Lösungen.
+Einfach in den entsprechenden Branch(oben links unter main) der jeweiligen Übungswoche wechseln.
+Die Lösungen finden sich im Ordner /src unter Main.java.
 Falls jemand Git-access für seine IDE will einfach bescheid geben, dann füg ich euch 
 als Contributor hinzu.
 
