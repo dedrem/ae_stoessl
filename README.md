@@ -10,4 +10,5 @@ Falls jemand Git-access für seine IDE will einfach bescheid geben, dann füg ic
 als Contributor hinzu.
 
 Übung 1 - 14.10.2020
+
 Übung 2 - 10.11.2020/11.11.2020
