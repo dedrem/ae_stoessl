@@ -1,8 +1,24 @@
 maintainer: Maximilian Goldbrunner
 
-Anwendungsentwicklung Praxisunterricht
+Woche 1: Konsolenausgabe
+---------------------------------------------------------
+Einstieg in Java mit verschiedenen Aufgaben zur Konsolenausgabe
 
-In diesem Repository finden sich Lösungen zu den 
-bearbeiteten Aufgaben.
+Aufgabe 0:
+----------
+Hallo Schnellversand GmbH
 
-Übung 1 - 14.10.2020
+
+Aufgabe 1:
+----------
+Guter Stil
+
+
+Aufgabe 2:
+----------
+Kommentare
+
+
+Aufgabe 3:
+----------
+Namensausgabe auf zwei Zeilen
