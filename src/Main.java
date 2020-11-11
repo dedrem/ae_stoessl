@@ -15,7 +15,9 @@ public class Main {
     private static void aufgabe1(int amount_of_toppings){
         //aufgabe1 errechnet den Gesamtpreis einer Pizza
         double price = 5.50 + amount_of_toppings*0.75;
-        System.out.println(String.format("Die Pizza mit %s Toppings kostet %s Euro.",amount_of_toppings, price));
+        String word = "Toppings";
+        if (amount_of_toppings==1) word = "Topping";
+        System.out.println(String.format("Die Pizza mit %s %s kostet %s Euro.",amount_of_toppings,word, price));
 
     }
 
