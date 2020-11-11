@@ -1,7 +1,9 @@
 public class Main {
     public static void main(String[] args){
         aufgabe0(10.5,17.3);
+        aufgabe1(1);
         aufgabe1(5);
+        aufgabe1(23);
     }
 
     private static void aufgabe0(double width, double length){
@@ -15,8 +17,7 @@ public class Main {
     private static void aufgabe1(int amount_of_toppings){
         //aufgabe1 errechnet den Gesamtpreis einer Pizza
         double price = 5.50 + amount_of_toppings*0.75;
-        String word = "Toppings";
-        if (amount_of_toppings==1) word = "Topping";
+        String word = (amount_of_toppings==1) ? "Topping" : "Toppings";
         System.out.println(String.format("Die Pizza mit %s %s kostet %s Euro.",amount_of_toppings,word, price));
 
     }
