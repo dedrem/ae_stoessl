@@ -6,38 +6,19 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
     </expand>
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:origin/Uebung_Woche_3" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:Uebung_Woche_3" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d22a4c68-cfe6-4dcc-a0c3-73a9002dc1cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Berechnung.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kombination.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RobotA3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RobotA4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StoryA2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StoryA3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StoryA4.java" afterDir="false" />
+    <list default="true" id="d22a4c68-cfe6-4dcc-a0c3-73a9002dc1cc" name="Default Changelist" comment="added exercises">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ae_stoessl/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ae_stoessl/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +77,14 @@
       <option name="presentableId" value="Default" />
       <updated>1604942345071</updated>
     </task>
+    <task id="LOCAL-00001" summary="added exercises">
+      <created>1606860735793</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606860735793</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,7 +98,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/Uebung_Woche_3" />
+                        <option value="Uebung_Woche_3" />
                       </list>
                     </value>
                   </entry>
@@ -121,6 +110,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="added exercises" />
   </component>
   <component name="WindowStateProjectService">
     <state x="278" y="96" key="#Project_Structure" timestamp="1604942372222">
@@ -135,26 +128,26 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="415" y="222" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1368.872@0.0.1368.872" timestamp="1604942416237" />
-    <state width="1509" height="263" key="GridCell.Tab.0.bottom" timestamp="1606859945714">
+    <state width="1509" height="263" key="GridCell.Tab.0.bottom" timestamp="1606860842480">
       <screen x="0" y="0" width="1552" height="986" />
     </state>
     <state width="1292" height="211" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1604942437355" />
-    <state width="1509" height="263" key="GridCell.Tab.0.bottom/0.0.1552.986@0.0.1552.986" timestamp="1606859945714" />
-    <state width="1509" height="263" key="GridCell.Tab.0.center" timestamp="1606859945714">
+    <state width="1509" height="263" key="GridCell.Tab.0.bottom/0.0.1552.986@0.0.1552.986" timestamp="1606860842480" />
+    <state width="1509" height="263" key="GridCell.Tab.0.center" timestamp="1606860842480">
       <screen x="0" y="0" width="1552" height="986" />
     </state>
     <state width="1292" height="211" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1604942437354" />
-    <state width="1509" height="263" key="GridCell.Tab.0.center/0.0.1552.986@0.0.1552.986" timestamp="1606859945714" />
-    <state width="1509" height="263" key="GridCell.Tab.0.left" timestamp="1606859945714">
+    <state width="1509" height="263" key="GridCell.Tab.0.center/0.0.1552.986@0.0.1552.986" timestamp="1606860842480" />
+    <state width="1509" height="263" key="GridCell.Tab.0.left" timestamp="1606860842480">
       <screen x="0" y="0" width="1552" height="986" />
     </state>
     <state width="1292" height="211" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1604942437353" />
-    <state width="1509" height="263" key="GridCell.Tab.0.left/0.0.1552.986@0.0.1552.986" timestamp="1606859945714" />
-    <state width="1509" height="263" key="GridCell.Tab.0.right" timestamp="1606859945714">
+    <state width="1509" height="263" key="GridCell.Tab.0.left/0.0.1552.986@0.0.1552.986" timestamp="1606860842480" />
+    <state width="1509" height="263" key="GridCell.Tab.0.right" timestamp="1606860842480">
       <screen x="0" y="0" width="1552" height="986" />
     </state>
     <state width="1292" height="211" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1604942437354" />
-    <state width="1509" height="263" key="GridCell.Tab.0.right/0.0.1552.986@0.0.1552.986" timestamp="1606859945714" />
+    <state width="1509" height="263" key="GridCell.Tab.0.right/0.0.1552.986@0.0.1552.986" timestamp="1606860842480" />
     <state x="144" y="68" key="MergeDialog" timestamp="1606818558751">
       <screen x="0" y="0" width="1552" height="986" />
     </state>
@@ -163,6 +156,10 @@
       <screen x="0" y="0" width="1552" height="986" />
     </state>
     <state x="277" y="138" key="SettingsEditor/0.0.1552.986@0.0.1552.986" timestamp="1606601494526" />
+    <state x="368" y="226" key="Vcs.Push.Dialog.v2" timestamp="1606860745371">
+      <screen x="0" y="0" width="1552" height="986" />
+    </state>
+    <state x="368" y="226" key="Vcs.Push.Dialog.v2/0.0.1552.986@0.0.1552.986" timestamp="1606860745371" />
     <state x="552" y="193" key="git4idea.branch.GitSmartOperationDialog" timestamp="1606818540907">
       <screen x="0" y="0" width="1552" height="986" />
     </state>

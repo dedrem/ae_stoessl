@@ -8,8 +8,8 @@ public class Berechnung {
         number_a = a;
         number_b = b;
 
-        i = a+b;
+        i = number_a+number_b;
 
-        System.out.println(String.format("Das Ergebnis von %s + %s ist %s!", a,b,i));
+        System.out.println(String.format("Das Ergebnis von %s + %s ist %s!", number_a,number_b,i));
     }
 }
