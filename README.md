@@ -26,3 +26,7 @@ Bei Alter >= 18 Meldung
 Aufgabe 4: Modulo
 ----------
 Gerade und ungerade Kundennummern bestimmen
+
+Aufgabe 4: Switch
+----------
+Kosten einer Karte nach Uhrzeit errechnen
