@@ -9,6 +9,8 @@ public class Aufgabe2 {
 
         checkBreak();
     }
+
+
     private void checkBreak(){
         if(hours >= 4 && tickets >= 10) System.out.println("Sie haben sich eine Pause verdient!");
         else System.out.println("Geh arbeiten du Sack!");
