@@ -17,6 +17,12 @@ public class Main {
         System.out.println("\n\nAufgabe 4");
         int a[] = {222,293849,287263738,333333,74958302,94730209,9484930};
         Aufgabe4 aufgabe4 = new Aufgabe4(a);
+
+        System.out.println("\n\nAufgabe 5");
+        Aufgabe5 aufgabe51 = new Aufgabe5(6);
+        Aufgabe5 aufgabe52 = new Aufgabe5(7);
+        Aufgabe5 aufgabe53 = new Aufgabe5(9);
+        Aufgabe5 aufgabe54 = new Aufgabe5(12);
     }
 
     public static boolean checkPermission(int age, boolean supervisor, boolean employee){
