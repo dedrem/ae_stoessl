@@ -27,6 +27,6 @@ Aufgabe 4: Modulo
 ----------
 Gerade und ungerade Kundennummern bestimmen
 
-Aufgabe 4: Switch
+Aufgabe 5: Switch
 ----------
 Kosten einer Karte nach Uhrzeit errechnen
