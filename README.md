@@ -1,32 +1,34 @@
 maintainer: Maximilian Goldbrunner
 
-Woche 6: 
+Woche 7: Arrays
 ---------------------------------------------------------
-f
+Ein-Dimensionale Felder
 
 
-Aufgabe 0:
+Aufgabe 1: Überstunden
 ----------
-Z
+Überstunden sollen in einem Array gespeichert werden.
 
 
-Aufgabe 1:
+Aufgabe 2: Umsatzzahlen
 ----------
-Z
+Verschiedene Umsatzzahlen sollen in einem Array gespeichert werden.
 
 
-Aufgabe 2:
+Aufgabe 3: Quartalszahlen
 ----------
-Z
+Quartalszahlen sollen aus einem Array verrechnet werden.
 
 
-Aufgabe 3:
+
+Aufgabe 4: Personalnummern
 ----------
-R
+Aus den Personalnummern sollen die Mitarbeiter gezählt werden.
 
-
-
-Aufgabe 4: 
+Aufgabe 5: USB-Chargen
 ----------
-S
+Ablegen der Chargen mit einem Array
 
+Aufgabe 6: Wettbewerb
+----------
+Wettbewerb mit Wartungsverträgen
