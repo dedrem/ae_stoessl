@@ -9,6 +9,11 @@ public class Aufgabe6 {
         }
         //c?
 
+        int[] arrayC = new int[101];
+        for(int i = 0; i < arrayC.length; i++){
+            arrayC[i] = i+1;
+        }
+
     }
 
 

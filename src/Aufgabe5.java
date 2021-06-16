@@ -2,7 +2,7 @@ public class Aufgabe5 {
 
     public Aufgabe5(int chargesize, int amount, int start){
 
-        int[] zehn = new int[amount/chargesize];
+        int[] zehn = new int[amount/chargesize*100];
 
         for (int i = 0; i < zehn.length; i++){
             zehn[i] = start + i*chargesize;
