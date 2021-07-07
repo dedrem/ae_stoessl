@@ -7,7 +7,7 @@ public class Aufgabe6 {
         for(int i = 0; i < array.length; i++){
             System.out.println(String.format("Die Anzahl der abgschlossenen Wartungsverträge von Mitarbeiter %s beträgt %s.", i+1, array[i]));
         }
-        //c?
+
 
         int[] arrayC = new int[101];
         for(int i = 0; i < arrayC.length; i++){

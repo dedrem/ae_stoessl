@@ -77,7 +77,7 @@ public class Main {
         int[] alter = {45, 38, 22};
 
         for(int i = 0; i<namen.length; i++){
-            if(weiblich[i] == true) System.out.println(String.format("Frau %s ist %s Jahre alt.", namen[i], alter[i]));
+            if(weiblich[i]) System.out.println(String.format("Frau %s ist %s Jahre alt.", namen[i], alter[i]));
             else System.out.println(String.format("Herr %s ist %s Jahre alt.", namen[i], alter[i]));
         }
   }
