@@ -1,5 +1,6 @@
 public class Main {
+
     public static void main(String[] args){
-        System.out.println("Hallo EIT10C");
+        Aufgabe1 aufgabe1 = new Aufgabe1();
     }
 }
