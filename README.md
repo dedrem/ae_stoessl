@@ -20,5 +20,4 @@ als Contributor hinzu.
 
 Übung 5 - 02.02.2020/03.02.2020
 
-Stefan Neumayer - Einer von uns beiden ist klüger als ich
-
+Stefan Neumayer - - - 
